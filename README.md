@@ -47,8 +47,8 @@ Here are some ideas to get you started:
  [![](https://visitcount.itsvg.in/api?id=misaliperver&label=Profile%20Views&color=1&icon=5&pretty=false)](https://visitcount.itsvg.in)
               
 <img align="left" alt="gif" width="300px" src="https://i.pinimg.com/originals/61/71/81/6171819be4c31993357d758196c75701.gif" /> 
-<p>🔭 I’m currently working on Onedio</p>
-<p>🌱 I’m currently learning K8S</p>
-<p>📫 My currently hobies camping and painting since bengin summer</p>
+<p>🔭 I’m currently working on Vepara</p>
+<p>🌱 I’m currently learning Financial Wallet As A Services' Technologies</p>
+<p>📫 My currently hobies travelling, puzzles and ai's</p>
 
 
